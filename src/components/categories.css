@@ -1,0 +1,41 @@
+.men{
+    background: url('../../public/Images/men.jpg');
+    height: 500px;
+    background-size: cover;   
+    cursor: pointer;
+}
+.col-lg-4{
+    text-align: initial;
+    color: yellow;
+}
+.col-lg-4 a{
+    text-decoration: none;
+    font-family: sans-serif;
+}
+.col-lg-4 p{
+    font-size: 50px;
+    font-family: auto;
+}
+.women{
+    background: url('../../public/Images/women.webp');
+    height: 500px;
+    background-size: cover;
+    cursor: pointer;
+}
+.kids{
+    background: url('../../public/Images/kids.jpg');
+    height: 500px;
+    background-size: cover;
+    cursor: pointer;
+}
+.container {
+    display: contents;
+}
+.container a{
+    color: white;
+}
+h1 {
+    font-size: 90px;
+    color: white;
+    font-family: sans-serif;
+}

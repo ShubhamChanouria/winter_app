@@ -1,0 +1,14 @@
+.top {
+    display: flex;
+}
+.col-sm-4 {
+    padding: 100px;
+}
+.col-sm-6{
+    text-align: center;
+}
+.heading h1 {
+    font-size: 70px;
+    background: slategray;
+    text-align: center;
+}

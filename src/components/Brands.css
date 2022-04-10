@@ -1,0 +1,65 @@
+.container-fluid{
+    margin-top: 10px;
+}
+.row {
+    margin-top: 60px;
+}
+.levi {
+    height: 200px;
+    background-image: url(../../public/Images/levis.jpg);
+    background-size: cover;
+    background-position: center;
+    cursor: pointer;
+}
+.adidas{
+    height: 200px;
+    background-image: url(../../public/Images/adidas.png);
+    background-size: contain;
+    background-position: center;
+    cursor: pointer;
+}
+.nike{
+    height: 200px;
+    background-image: url(../../public/Images/nike.jpeg);
+    background-size: cover;
+    background-position: center;
+    cursor: pointer;
+}
+.jack{
+    height: 200px;
+    background-image: url(../../public/Images/J&J.jpeg);
+    background-size: cover;
+    background-position: center;
+    cursor: pointer;
+}
+.container-fluid-two{
+    margin-top: 50px;
+}
+.puma {
+    height: 200px;
+    background-image: url(../../public/Images/puma.jpg);
+    background-size: cover;
+    background-position: center;
+    cursor: pointer;
+}
+.hm {
+    height: 200px;
+    background-image: url(../../public/Images/HM.png);
+    background-size: cover;
+    background-position: center;
+    cursor: pointer;
+}
+.zara {
+    height: 200px;
+    background-image: url(../../public/Images/zara.jpeg);
+    background-size: cover;
+    background-position: center;
+    cursor: pointer;
+}
+.wood {
+    height: 200px;
+    background-image: url(../../public/Images/wood.jpg);
+    background-size: cover;
+    background-position: center;
+    cursor: pointer;
+}

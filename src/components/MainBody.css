@@ -1,0 +1,15 @@
+.text{
+    background: url("../../public/Images/fashion-model-wallpaper-2.jpg")  ;
+    height: 700px;
+}
+
+.word{
+    display: table-cell;
+    padding-top: 200px; 
+    padding-left: 150px;
+    font-family: sans-serif;  
+}
+.word h1 {
+    font-size: 70px;
+}
+

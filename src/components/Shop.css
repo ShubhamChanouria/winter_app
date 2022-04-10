@@ -1,0 +1,17 @@
+.head h1 {
+    font-size: 70px;
+    background: slategray;
+    text-align: center;
+}
+ul{
+display:flex ;
+margin-top: 100px;
+margin-bottom: 1rem;
+}
+.col-sm-4 {
+    padding: 100px;
+    text-align: center;
+}
+img.arrayImg {
+    height: 300px;
+}
